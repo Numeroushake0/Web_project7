@@ -1,0 +1,5 @@
+SQLAlchemy==2.0.19
+psycopg2-binary==2.9.6
+alembic==1.10.2
+Faker==18.9.0
+argparse==1.4.0
